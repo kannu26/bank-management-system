@@ -1,7 +1,3 @@
-
-
-
-
 #include<iostream.h>
 #include<fstream.h>
 #include<ctype.h>
@@ -357,6 +353,5 @@ void intro()
 {
 	cout<<"\n\t  BANKING MANAGEMENT SYSTEM";
 	cout<<"\n\n\n\nMADE BY : KANIKA";
-	cout<<"\n\nSCHOOL : D.A.V";
 	cin.get();
 }
